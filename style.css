@@ -1,0 +1,14 @@
+.heading{
+    background-color: blue;
+}
+.direction{
+    background-color: aqua;
+    font-size: 18px;
+}
+.input{
+    width: 400px;
+    text-align: center;
+}
+canvas{
+    margin-top: 200px;
+}
